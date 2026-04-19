@@ -81,3 +81,4 @@ window.addEventListener("scroll", () => {
   lastLeft.style.transform = `translateX(${-scrollY * speed}px)`;
   lastRight.style.transform = `translateX(${scrollY * speed}px)`;
 });
+
